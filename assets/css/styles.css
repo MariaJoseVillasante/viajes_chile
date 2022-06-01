@@ -8,6 +8,11 @@ body {
     color: aliceblue;
 }
 
+h1{
+    font-size: 34px;
+    font-family: "Oswald";
+}
+
 /* navbar */
 .navbar {
     position: fixed;   /* para que el menu de navegación esté fijo */
@@ -36,37 +41,27 @@ body {
     background-color: 
 } */
 
- /* Mis ultimos trabajos */
-#Trabajos {
-    font-family: "Oswald";
-}
+ /* Destacados */
 
-#Trabajos h1{
-    font-size: 34px;
-}
-
-#Trabajos p{
+/* #Trabajos p{
     font-family: "Open Sans";
     font-size: 16px;
     font-weight: 300;
-}
+} */
 .card-body{
-    height: 220px;
+    height: 250px;
+}
+
+.card-img-top{
+    width: 216px;
+    height: 144px;
 }
 
 /* Contacto */
-#Contacto h1{
-    font-family: "Oswald";
-    font-size: 52px;
-}
 
 /* Footer */
 #Footer{
     background-color: #660066;
-}
-
-#Footer h1{
-    font-family: "Oswald";
 }
 
 #Footer a {
