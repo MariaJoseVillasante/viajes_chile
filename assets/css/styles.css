@@ -37,22 +37,13 @@ h1{
     /* line-height: 3; */
 }
 
-/* #Quienes_Somos h2{
-    background-color: 
-} */
-
  /* Destacados */
 
-/* #Trabajos p{
-    font-family: "Open Sans";
-    font-size: 16px;
-    font-weight: 300;
-} */
-/* .card-body{
+/* .card-body-td{
     height: 250px;
-}
+} */
 
-.card-img-top{
+/* .card-foto{
     width: 216px;
     height: 144px;
 } */
@@ -60,8 +51,10 @@ h1{
 /* Contacto */
 
 /* Footer */
-#Footer{
-    background-color: #660066;
+#Footer p{
+    font-family: "Oswald";
+    font-size: 20px;
+    font-weight: 700;
 }
 
 #Footer a {
