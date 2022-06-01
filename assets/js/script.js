@@ -7,9 +7,9 @@ $(document).ready(function(){
         
         $("html, body").animate(
             {
-                scrollTop: $(gato).offset().top -70
+                scrollTop: $(gato).offset().top -0
             },
-            800
+            10
         )
     })
 
